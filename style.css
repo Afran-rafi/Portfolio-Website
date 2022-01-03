@@ -38,7 +38,7 @@ h1{
 
 .Boss-2{
     display: flex;
-    background-image: url(/Image/dream-bg.png);
+    background-image: url(dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -46,7 +46,7 @@ h1{
 .King{
     width: 100%;
     height: 90vh;
-    background-image: url("/Image/exp-bg.png");
+    background-image: url("exp-bg.png");
     background-position: left;
     background-repeat: no-repeat;
 }
