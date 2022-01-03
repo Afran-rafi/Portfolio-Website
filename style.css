@@ -36,4 +36,48 @@ h1{
     width: 80%;
 }
 
+.Boss-2{
+    display: flex;
+    background-image: url(/Image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.King{
+    width: 100%;
+    height: 90vh;
+    background-image: url("/Image/exp-bg.png");
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+.Shadow{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 8px;
+    height: 60%;
+    width: 35%;
+    height: 40vh;
+    margin: 3%;
+}
+
+.SSS{
+    display: flex;
+}
+
+#b-color{
+    border-left: 7px solid;
+    border-image: linear-gradient(#11ff05 , #037403);
+    border-image-slice: 1;
+}
+
+#bc-color{
+    border-left: 7px solid;
+    border-image: linear-gradient(#059bff , #031372);
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+}
+
 
